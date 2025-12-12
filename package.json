@@ -13,7 +13,7 @@
     "version": "./version.sh"
   },
   "dependencies": {
-    "next": "14.1.4",
+    "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18"
   },
